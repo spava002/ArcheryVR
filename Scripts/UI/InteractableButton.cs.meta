@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0b183d8c45f902c45906ee870dc4aa26
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_InteractionManager: {instanceID: 0}
+  - m_CustomReticle: {instanceID: 0}
+  - buttonClick: {instanceID: 0}
+  - buttonManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
