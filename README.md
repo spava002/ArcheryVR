@@ -1,7 +1,6 @@
 # 🎯 Archery VR / Bow Masters
 
-**Disclaimer**
-Due to file size constraints, this repo only shows the main scripts used for the game.
+**Disclaimer:** Due to file size constraints, this repo only shows the main scripts used for the game.
 
 ## What is this?
 Archery VR, also known as Bow Masters, is a virtual reality archery game designed with realism, challenge, and immersion at its core. Built with Unity and powered by custom physics tuned for arrow realism, this project explores how dynamic difficulty and VR interaction can create a deep and replayable experience.
