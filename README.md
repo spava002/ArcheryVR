@@ -45,6 +45,8 @@ This project was built with VR performance front of mind:
 
 * Occlusion Culling – Disabled rendering of unseen geometry dynamically.
 
+* Baked Lighting – Heavily relied on pre-baked lighting to avoid real-time lighting overhead, ensuring smooth framerate and rich environmental visuals.
+
 ## Technologies Used
 
 * Unity	Game engine (C#) and XR Interaction Toolkit
