@@ -59,7 +59,7 @@ This project was built with VR performance front of mind:
 
 ## Demos
 
-**Main Menus**
+**Main Menu**
 
 * Showcases the menus with difficulty, mode, and map selections, along with the transition to the selected map.
 
